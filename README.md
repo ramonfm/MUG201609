@@ -2,8 +2,8 @@ This repository contains some examples demonstrating the new functionality comin
 
 Links
 
-* [This repo](github.com/ramonfm/MUG201609)
-* [Download MongoDB](mongodb.com/download-center)
-* [MongoDB 3.3 Development Release Notes](docs.mongodb.com/manual/release-notes/3.3-dev-series/)
-* [mtools](github.com/rueckstiess/mtools)
-* [jstests](github.com/mongodb/mongo/tree/master/jstests)
+* [This repo](http://github.com/ramonfm/MUG201609)
+* [Download MongoDB](http://mongodb.com/download-center)
+* [MongoDB 3.3 Development Release Notes](http://docs.mongodb.com/manual/release-notes/3.3-dev-series/)
+* [mtools](http://github.com/rueckstiess/mtools)
+* [jstests](http://github.com/mongodb/mongo/tree/master/jstests)
