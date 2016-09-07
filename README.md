@@ -1,5 +1,7 @@
 This repository contains some examples demonstrating the new functionality coming in MongoDB 3.4, as well as some links to explore further
 
+You can see the [3.4 Bug Hunt Dashboard here](https://jira.mongodb.org/secure/Dashboard.jspa?selectPageId=15610)
+
 Links
 
 * [This repo](http://github.com/ramonfm/MUG201609)
