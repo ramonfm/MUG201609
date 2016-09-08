@@ -2,6 +2,8 @@ This repository contains some examples demonstrating the new functionality comin
 
 You can see the [3.4 Bug Hunt Dashboard here](https://jira.mongodb.org/secure/Dashboard.jspa?selectPageId=15610)
 
+You can [ask MongoDB questions in the mongodb-user group](https://groups.google.com/group/mongodb-user).
+
 Links
 
 * [This repo](http://github.com/ramonfm/MUG201609)
